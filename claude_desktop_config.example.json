@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "stockpilot": {
+      "command": "node",
+      "args": ["/Users/dennysguedez/projects/stockpilot-mcp/dist/server.js"],
+      "env": {
+        "SNAPTRADE_CLIENT_ID": "REPLACE_ME",
+        "SNAPTRADE_CONSUMER_KEY": "REPLACE_ME",
+        "SNAPTRADE_USER_ID": "REPLACE_ME",
+        "SNAPTRADE_USER_SECRET": "REPLACE_ME",
+        "SNAPTRADE_DEFAULT_ACCOUNT_ID": "REPLACE_ME"
+      }
+    }
+  }
+}
